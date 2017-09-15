@@ -9,3 +9,4 @@ Lab Assignments:
 | Lab | Due | Description |
 |-----|-----|-------------|
 |[Lab 1](https://github.com/PlattsburghCSC319-2017-Fall/Course/tree/master/Assignments/Lab%201)| 9/7 | Hello Professor program and resume/cover letter |
+|[Lab 2](https://classroom.github.com/a/ORucs49l)| 9/22 | Smoots Problem |
