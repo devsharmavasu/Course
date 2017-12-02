@@ -12,3 +12,4 @@ Lab Assignments:
 |[Lab 2](https://classroom.github.com/a/ORucs49l)| 9/22 | Smoots Problem |
 |[Lab 3](https://classroom.github.com/a/wWLRl33c)| 10/4 | Cast List |
 |[Lab 4](https://classroom.github.com/a/3VUnXoAu)| 11/15 | Warmup Exercises |
+|[Lab 5](https://classroom.github.com/g/XIdBH3r2)| 12/8 | Willy Game |
